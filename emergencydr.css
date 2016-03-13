@@ -1,0 +1,148 @@
+body {background-image: url("SeeingSpots.jpg")}
+
+h1 {
+	color: #580000 ;
+	font-size: 80px;
+	text-align: center
+}
+
+#explanation p {font-size: 35px}
+
+.navbar-inverse {
+  background-color: rgb(80,0,0);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+/* Add a gray right border to all list items, except the last item (last-child) */
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+.form-group {
+	color: white;
+	text-align: right;
+	font: 20px;
+	font-style: italic;
+	}
+
+#BasicLifeSupport h2 {
+	font-size: 35px;
+	color: #800000  ;
+	text-decoration: underline;
+}
+
+#BasicLifeSupport p {
+	font-size: 20px
+}
+
+h3 {font: monospace;
+	padding: 0.2cm}
+p {font: Georgia;
+	padding: 0.3cm}
+h4 {font: Georgia;
+	padding: 0.3cm}
+
+#explanation {text-align: center}
+div#DANGER {
+	background-color: #FF9999;
+	border: 3px solid black;
+	border-color: #680000;
+	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+div#RESPONSE {
+	background-color: #FF9999;
+	border: 3px solid black;
+	border-color: #680000;
+	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px #888888
+}
+
+div#AIRWAY {
+	background-color: #FF9999;
+	border: 3px solid black;
+	border-color: #680000;
+	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px #888888
+}
+
+div#BREATHING {
+	background-color: #FF9999;
+	border: 3px solid black;
+	border-color: #680000;
+	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px #888888
+}
+
+div#CIRCULATION {
+	background-color: #FF9999;
+	border: 3px solid black;
+	border-color: #680000;
+	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px #888888
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-inline input[name='email'] {
+  width: 80%;
+}
+
+#social-buttons button {
+  color: white;
+  margin: auto;
+}
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+  text-align: center;
+  padding: 3px;
+}
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+  text-align: center;
+  padding: 3px
+}
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+  color: white;
+  text-align: center;
+  padding: 3px
+}
